@@ -18,7 +18,7 @@ const translations = {
     // Hero
     hero_title: "AAAS 2026 - Agentic AI Applications Symposium",
     hero_subtitle: "Focusing on Generative AI & Applications in Smart Tourism / Blue Economy Sustainability",
-    hero_date: "June 15, 2026 | Penghu, Taiwan",
+    hero_date: "May 29, 2026 | Penghu, Taiwan",
     hero_btn_register: "Register Now",
     hero_btn_speakers: "View Speakers",
 
@@ -47,12 +47,10 @@ const translations = {
     dates_title: "Important Dates",
     dates_event: "Event",
     dates_date: "Date",
-    date1_event: "Early Bird Registration",
-    date1_date: "May 15, 2026",
-    date2_event: "Registration Deadline",
-    date2_date: "June 1, 2026",
-    date3_event: "Symposium Date",
-    date3_date: "June 15, 2026",
+    date1_event: "Registration Deadline",
+    date1_date: "May 23, 2026",
+    date2_event: "Symposium Date",
+    date2_date: "May 29, 2026",
 
     // Speakers
     speakers_title: "Invited Speakers",
@@ -108,7 +106,7 @@ const translations = {
 
     hero_title: "AAAS 2026 - 生成式AI與應用論壇",
     hero_subtitle: "聚焦生成式AI與應用智慧觀光/藍色經濟永續發展",
-    hero_date: "2026年6月15日 | 台灣澎湖",
+    hero_date: "2026年5月29日 | 台灣澎湖",
     hero_btn_register: "立即報名",
     hero_btn_speakers: "查看演講者",
 
@@ -134,12 +132,10 @@ const translations = {
     dates_title: "重要日期",
     dates_event: "事項",
     dates_date: "日期",
-    date1_event: "早鳥報名",
-    date1_date: "2026年5月15日",
-    date2_event: "報名截止",
-    date2_date: "2026年6月1日",
-    date3_event: "論壇日期",
-    date3_date: "2026年6月15日",
+    date1_event: "報名截止",
+    date1_date: "2026年5月23日",
+    date2_event: "論壇日期",
+    date2_date: "2026年5月29日",
 
     speakers_title: "特邀演講者",
     speaker1_name: "A 教授",
@@ -190,7 +186,7 @@ const translations = {
 
     hero_title: "AAAS 2026 - エージェントAIアプリケーションシンポジウム",
     hero_subtitle: "生成AIとスマート観光・ブルーエコノミー持続可能性への応用に焦点",
-    hero_date: "2026年6月15日 | 台湾・澎湖",
+    hero_date: "2026年5月29日 | 台湾・澎湖",
     hero_btn_register: "参加登録",
     hero_btn_speakers: "講演者を見る",
 
@@ -216,12 +212,10 @@ const translations = {
     dates_title: "重要な日程",
     dates_event: "イベント",
     dates_date: "日付",
-    date1_event: "早期割引登録",
-    date1_date: "2026年5月15日",
-    date2_event: "参加登録締切",
-    date2_date: "2026年6月1日",
-    date3_event: "シンポジウム開催日",
-    date3_date: "2026年6月15日",
+    date1_event: "参加登録締切",
+    date1_date: "2026年5月23日",
+    date2_event: "シンポジウム開催日",
+    date2_date: "2026年5月29日",
 
     speakers_title: "招待講演者",
     speaker1_name: "A 教授",
@@ -272,7 +266,7 @@ const translations = {
 
     hero_title: "AAAS 2026 - Simposium Aplikasi AI Agentik",
     hero_subtitle: "Fokus pada AI Generatif & Aplikasi dalam Pariwisata Cerdas / Keberlanjutan Ekonomi Biru",
-    hero_date: "15 Juni 2026 | Penghu, Taiwan",
+    hero_date: "29 Mei 2026 | Penghu, Taiwan",
     hero_btn_register: "Daftar Sekarang",
     hero_btn_speakers: "Lihat Pembicara",
 
@@ -298,12 +292,10 @@ const translations = {
     dates_title: "Tanggal Penting",
     dates_event: "Acara",
     dates_date: "Tanggal",
-    date1_event: "Pendaftaran Early Bird",
-    date1_date: "15 Mei 2026",
-    date2_event: "Batas Pendaftaran",
-    date2_date: "1 Juni 2026",
-    date3_event: "Tanggal Simposium",
-    date3_date: "15 Juni 2026",
+    date1_event: "Batas Pendaftaran",
+    date1_date: "23 Mei 2026",
+    date2_event: "Tanggal Simposium",
+    date2_date: "29 Mei 2026",
 
     speakers_title: "Pembicara Undangan",
     speaker1_name: "Profesor A",
@@ -354,7 +346,7 @@ const translations = {
 
     hero_title: "AAAS 2026 - Hội nghị Ứng dụng AI Tác tử",
     hero_subtitle: "Tập trung vào AI Tạo sinh & Ứng dụng Du lịch Thông minh / Bền vững Kinh tế Xanh dương",
-    hero_date: "15 tháng 6, 2026 | Bành Hồ, Đài Loan",
+    hero_date: "29 tháng 5, 2026 | Bành Hồ, Đài Loan",
     hero_btn_register: "Đăng ký ngay",
     hero_btn_speakers: "Xem diễn giả",
 
@@ -380,12 +372,10 @@ const translations = {
     dates_title: "Ngày quan trọng",
     dates_event: "Sự kiện",
     dates_date: "Ngày",
-    date1_event: "Đăng ký sớm",
-    date1_date: "15 tháng 5, 2026",
-    date2_event: "Hạn đăng ký",
-    date2_date: "1 tháng 6, 2026",
-    date3_event: "Ngày diễn đàn",
-    date3_date: "15 tháng 6, 2026",
+    date1_event: "Hạn đăng ký",
+    date1_date: "23 tháng 5, 2026",
+    date2_event: "Ngày diễn đàn",
+    date2_date: "29 tháng 5, 2026",
 
     speakers_title: "Diễn giả mời",
     speaker1_name: "Giáo sư A",
