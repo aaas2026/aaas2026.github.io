@@ -104,9 +104,9 @@ const translations = {
     nav_venue: "會場",
     nav_contact: "聯絡",
 
-    site_title: "AAAS 2026 - AI代理應用論壇",
+    site_title: "AAAS 2026 - 生成式AI與應用論壇",
 
-    hero_title: "AAAS 2026 - AI代理應用論壇",
+    hero_title: "AAAS 2026 - 生成式AI與應用論壇",
     hero_subtitle: "聚焦生成式AI與應用智慧觀光/藍色經濟永續發展",
     hero_date: "2026年6月15日 | 台灣澎湖",
     hero_btn_register: "立即報名",
@@ -115,7 +115,7 @@ const translations = {
     about_title: "關於 AAAS 2026",
     about_organizer: "主辦單位：國立澎湖科技大學及澎湖縣政府",
     about_coorganizer: "協辦單位：XXXXX公司、YYYYY公司",
-    about_text: "2026年AI代理應用論壇（AAAS 2026）由國立澎湖科技大學主辦，匯集研究人員、實務工作者及業界領袖，共同探索AI代理技術的快速發展趨勢及其實際應用。本技術論壇邀請頂尖專家進行專題演講，聚焦於能夠在複雜真實環境中感知、推理、規劃和行動的自主AI代理。",
+    about_text: "2026年生成式AI與應用論壇（AAAS 2026）由國立澎湖科技大學主辦，匯集研究人員、實務工作者及業界領袖，共同探索AI代理技術的快速發展趨勢及其實際應用。本技術論壇邀請頂尖專家進行專題演講，聚焦於能夠在複雜真實環境中感知、推理、規劃和行動的自主AI代理。",
 
     topics_title: "論壇主題",
     topic1_title: "生成式AI基礎",
